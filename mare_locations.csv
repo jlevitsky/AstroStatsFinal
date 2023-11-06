@@ -1,0 +1,23 @@
+Feature Name,Target,Diameter,Center Latitude,Center Longitude,Coordinate System,Approval Status,Approval Date,Origin
+Mare Anguis,Moon,145.99,22.43,67.58,"Planetographic, +East, -180 - 180",Approved,1935,“;Serpent Sea.“;
+Mare Australe,Moon,996.84,-47.77,91.99,"Planetographic, +East, -180 - 180",Approved,1935,“;Southern Sea.“;
+Mare Cognitum,Moon,350.01,-10.53,-22.31,"Planetographic, +East, -180 - 180",Approved,1964,“;Sea that has become known.“; Ranger VII impact site.
+Mare Crisium,Moon,555.92,16.18,59.10,"Planetographic, +East, -180 - 180",Approved,1935,“;Sea of Crises.“;
+Mare Fecunditatis,Moon,840.35,-7.83,53.67,"Planetographic, +East, -180 - 180",Approved,1935,“;Sea of Fecundity.“;
+Mare Frigoris,Moon,1446.41,57.59,-0.01,"Planetographic, +East, -180 - 180",Approved,1935,“;Sea of Cold.“;
+Mare Humboldtianum,Moon,230.78,56.92,81.54,"Planetographic, +East, -180 - 180",Approved,1935,"Humboldt, Alexander von; German natural historian (1769-1859)."
+Mare Humorum,Moon,419.67,-24.48,-38.57,"Planetographic, +East, -180 - 180",Approved,1935,“;Sea of Moisture.“;
+Mare Imbrium,Moon,1145.53,34.72,-14.91,"Planetographic, +East, -180 - 180",Approved,1935,“;Sea of Showers.“;
+Mare Ingenii,Moon,282.20,-33.25,164.83,"Planetographic, +East, -180 - 180",Approved,1961,“;Sea of Cleverness.“;
+Mare Insularum,Moon,511.93,7.79,-30.64,"Planetographic, +East, -180 - 180",Approved,1976,“;Sea of Islands.“;
+Mare Marginis,Moon,357.63,12.70,86.52,"Planetographic, +East, -180 - 180",Approved,1935,“;Sea of the Edge.“;
+Mare Moscoviense,Moon,275.57,27.28,148.12,"Planetographic, +East, -180 - 180",Approved,1961,“;Sea of Muscovy.“;
+Mare Nectaris,Moon,339.39,-15.19,34.60,"Planetographic, +East, -180 - 180",Approved,1935,“;Sea of Nectar.“;
+Mare Nubium,Moon,714.50,-20.59,-17.29,"Planetographic, +East, -180 - 180",Approved,1935,“;Sea of Clouds.“;
+Mare Orientale,Moon,294.16,-19.87,-94.67,"Planetographic, +East, -180 - 180",Approved,1964,“;Eastern sea.“;
+Mare Serenitatis,Moon,674.28,27.29,18.36,"Planetographic, +East, -180 - 180",Approved,1935,“;Sea of Serenity.“;
+Mare Smythii,Moon,373.97,-1.71,87.05,"Planetographic, +East, -180 - 180",Approved,1935,"Smyth, William Henry; British astronomer (1788-1865)."
+Mare Spumans,Moon,143.13,1.30,65.30,"Planetographic, +East, -180 - 180",Approved,1935,“;Foaming Sea.“;
+Mare Tranquillitatis,Moon,875.75,8.35,30.83,"Planetographic, +East, -180 - 180",Approved,1935,“;Sea of Tranquility.“;
+Mare Undarum,Moon,244.84,7.49,68.66,"Planetographic, +East, -180 - 180",Approved,1935,“;Sea of Waves.“;
+Mare Vaporum,Moon,242.46,13.20,4.09,"Planetographic, +East, -180 - 180",Approved,1935,“;Sea of Vapors.“;
